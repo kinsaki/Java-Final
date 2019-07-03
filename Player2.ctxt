@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player2\ here.\n\ \n\ @author\ (Devon\ Lucey)\ \n\ @version\ (v1.9)\n
+comment1.params=
+comment1.target=Player2()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Call\ player\ movement,\ player\ death,\ and\ counts\ up\ for\ reload.\n
+comment3.params=
+comment3.target=void\ playerMovement()
+comment4.params=
+comment4.target=void\ checkForDeath()
+comment5.params=
+comment5.target=void\ fire()
+numComments=6

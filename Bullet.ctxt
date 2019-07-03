@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bullet\ here.\n\ \n\ @author\ (Devon\ Lucey)\ \n\ @version\ (v1.7)\n
+comment1.params=speed\ rotation
+comment1.target=Bullet(Vector,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkZombieHit()
+numComments=4

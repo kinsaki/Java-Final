@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\n\ Write\ a\ description\ of\ class\ Zombie\ here.\n\ \n\ @author\ (Devon\ Lucey)\ \n\ @version\ (v1.8)\n
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForDeath()
+numComments=4
